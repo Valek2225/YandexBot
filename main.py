@@ -51,7 +51,7 @@ logging.basicConfig(
 )
 
 logger = logging.getLogger(__name__)
-
+# create session
 session = requests.Session()
 session.headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"}
@@ -68,7 +68,7 @@ if not loginToken: raise ValueError("Field 'logintoken' was not found")
 
 loginTokenVal = loginToken[0]
 loginAnchorVal = login_anchor[0]
-
+# login in informatics.msk.ru
 loginResp = session.post(
     "https://informatics.msk.ru/login/index.php",
     data={
@@ -80,6 +80,7 @@ loginResp = session.post(
 )
 
 
+# get chat id
 def getChatId():
     req = requests.get(f'https://api.telegram.org/bot{BOT_TOKEN}/getUpdates')
     req_json = req.json()
@@ -87,6 +88,7 @@ def getChatId():
     return chat_id
 
 
+# submit problem
 def submit(Document, data):
     global count_submissions
     file_name = Document.file_name
@@ -112,6 +114,7 @@ def submit(Document, data):
                                   'lang_id': langs[data['Lang']],
                                   'file': f'{str(count_submissions)}{extension}'
                               })
+    # get request for check status code
     url = (
         f"https://informatics.msk.ru/py/problem/{problem_id}/filter-runs?problem_id={problem_id}&from_timestamp=-1&to_timestamp=-1&"
         "user_id=854350&lang_id=-1&status_id=-1&statement_id=0&count=10&with_comment=&page=1&group_id=0&course_id=0")
@@ -127,6 +130,7 @@ def submit(Document, data):
             f"Баллы: {max(0, score)}"]
 
 
+# send file statement
 def sendDocs(data):
     url = f'https://api.telegram.org/bot{BOT_TOKEN}/sendDocument'
     data_send = {'chat_id': chatId, 'file': 'Problem.pdf'}
@@ -153,6 +157,7 @@ async def start(update, context):
     return 1
 
 
+# selct type
 async def selectType(update, context):
     reply_keyboard = [stages]
     markup = ReplyKeyboardMarkup(reply_keyboard, one_time_keyboard=True)
@@ -161,6 +166,7 @@ async def selectType(update, context):
     return 2
 
 
+# select stage
 async def selectStage(update, context):
     reply_keyboard = [years]
     markup = ReplyKeyboardMarkup(reply_keyboard, one_time_keyboard=True)
@@ -169,6 +175,7 @@ async def selectStage(update, context):
     return 3
 
 
+# select year
 async def selectYear(update, context):
     reply_keyboard = [days]
     markup = ReplyKeyboardMarkup(reply_keyboard, one_time_keyboard=True)
@@ -177,6 +184,7 @@ async def selectYear(update, context):
     return 4
 
 
+# select day
 async def selectDay(update, context):
     reply_keyboard = [problems]
     markup = ReplyKeyboardMarkup(reply_keyboard, one_time_keyboard=True)
@@ -185,6 +193,7 @@ async def selectDay(update, context):
     return 5
 
 
+# select problem
 async def selectProblem(update, context):
     context.user_data['Problem'] = update.message.text
     req = id_problems[context.user_data['Type']][context.user_data['Stage']][context.user_data['Year']][
@@ -205,6 +214,7 @@ async def selectProblem(update, context):
         return 6
 
 
+# select lang submission
 async def selectLang(update, context):
     context.user_data['Lang'] = update.message.text
     if context.user_data['Lang'] not in langs.keys():
@@ -215,6 +225,7 @@ async def selectLang(update, context):
         return 7
 
 
+# select file/answer
 async def selectFile(update, context):
     doc = update.message.document
     answer = submit(doc, context.user_data)
@@ -224,6 +235,7 @@ async def selectFile(update, context):
     return ConversationHandler.END
 
 
+# brake dialog
 async def stop(update, context):
     markup = ReplyKeyboardRemove()
     await update.message.reply_text("Всего доброго!", reply_markup=markup)
