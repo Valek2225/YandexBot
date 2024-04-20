@@ -1,0 +1,1196 @@
+{
+  "VSOSH": {
+    "Final_stage": {
+      "2009": {
+        "1": {
+          "A": {
+            "id": 1337,
+            "platform": "inf",
+            "name": "\u041a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u043d\u0430\u044f \u0441\u0435\u0442\u044c",
+            "statement": "."
+          },
+          "B": {
+            "id": 1338,
+            "platform": "inf",
+            "name": "\u041d\u0413\u0423-\u0441\u0442\u0440\u043e\u0439\u043a\u0430",
+            "statement": "."
+          },
+          "C": {
+            "id": 1339,
+            "platform": "inf",
+            "name": "\u0426\u0438\u0444\u0440\u044b \u0438 \u0447\u0438\u0441\u043b\u0430",
+            "statement": "."
+          },
+          "D": {
+            "id": -1,
+            "platform": "inf",
+            "name": "unknown",
+            "statement": "."
+          }
+        },
+        "2": {
+          "A": {
+            "id": 1340,
+            "platform": "inf",
+            "name": "\u041b\u0435\u0433\u043a\u043e\u0430\u0442\u043b\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u043d\u0435\u0436 \u041c\u0413\u0423",
+            "statement": "."
+          },
+          "B": {
+            "id": 1341,
+            "platform": "inf",
+            "name": "\u0413\u0440\u0430\u0444\u0444\u0438\u0442\u0438 \u043d\u0430 \u0437\u0430\u0431\u043e\u0440\u0435",
+            "statement": "."
+          },
+          "C": {
+            "id": 1342,
+            "platform": "inf",
+            "name": "\u0421\u0442\u0435\u043a\u043e\u0432\u044b\u0439 \u043a\u0430\u043b\u044c\u043a\u0443\u043b\u044f\u0442\u043e\u0440",
+            "statement": "."
+          },
+          "D": {
+            "id": -1,
+            "platform": "inf",
+            "name": "unknown",
+            "statement": "."
+          }
+        }
+      },
+      "2010": {
+        "1": {
+          "A": {
+            "id": 2529,
+            "platform": "inf",
+            "name": "\u041f\u043e\u0434\u0430\u0440\u043e\u043a",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2009-2010/final_tasks/new-cut/iikt/tasks-iikt-9-11-final-2009-10.pdf"
+          },
+          "B": {
+            "id": 2530,
+            "platform": "inf",
+            "name": "\u042e\u0433\u0440\u0430\u041d\u0435\u0444\u0442\u0435\u0422\u0440\u0430\u043d\u0441",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2009-2010/final_tasks/new-cut/iikt/tasks-iikt-9-11-final-2009-10.pdf"
+          },
+          "C": {
+            "id": 2531,
+            "platform": "inf",
+            "name": "\u041c\u043e\u0441\u043a\u0432\u0430 \u2014 \u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2009-2010/final_tasks/new-cut/iikt/tasks-iikt-9-11-final-2009-10.pdf"
+          },
+          "D": {
+            "id": -1,
+            "platform": "inf",
+            "name": "unknown",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2009-2010/final_tasks/new-cut/iikt/tasks-iikt-9-11-final-2009-10.pdf"
+          }
+        },
+        "2": {
+          "A": {
+            "id": 2532,
+            "platform": "inf",
+            "name": "\u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a \u2014 \u041f\u0430\u0440\u0438\u0436",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2009-2010/final_tasks/new-cut/iikt/tasks-iikt-9-11-final-2009-10.pdf"
+          },
+          "B": {
+            "id": 2533,
+            "platform": "inf",
+            "name": "\u0410 \u043e\u043b\u0435\u043d\u0438 \u2014 \u043b\u0443\u0447\u0448\u0435!",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2009-2010/final_tasks/new-cut/iikt/tasks-iikt-9-11-final-2009-10.pdf"
+          },
+          "C": {
+            "id": 2534,
+            "platform": "inf",
+            "name": "\u0417\u0435\u043c\u043b\u0435\u0434\u0435\u043b\u0438\u0435 2.0",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2009-2010/final_tasks/new-cut/iikt/tasks-iikt-9-11-final-2009-10.pdf"
+          },
+          "D": {
+            "id": -1,
+            "platform": "inf",
+            "name": "unknown",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2009-2010/final_tasks/new-cut/iikt/tasks-iikt-9-11-final-2009-10.pdf"
+          }
+        }
+      },
+      "2011": {
+        "1": {
+          "A": {
+            "id": 3393,
+            "platform": "inf",
+            "name": "\u0421\u043a\u043e\u0431\u043a\u0438",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2010-2011/final_tasks/iikt/tasks-iikt-9-11-final-10-1.pdf"
+          },
+          "B": {
+            "id": 3394,
+            "platform": "inf",
+            "name": "\u0428\u043a\u043e\u043b\u0430 \u043e\u043b\u0438\u043c\u043f\u0438\u0439\u0441\u043a\u043e\u0433\u043e \u0440\u0435\u0437\u0435\u0440\u0432\u0430",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2010-2011/final_tasks/iikt/tasks-iikt-9-11-final-10-1.pdf"
+          },
+          "C": {
+            "id": 3395,
+            "platform": "inf",
+            "name": "\u0421\u043d\u043e\u0432\u0430 \u0432 \u043a\u043e\u0441\u043c\u043e\u0441",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2010-2011/final_tasks/iikt/tasks-iikt-9-11-final-10-1.pdf"
+          },
+          "D": {
+            "id": 3396,
+            "platform": "inf",
+            "name": "\u041f\u043e\u0447\u0442\u0430",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2010-2011/final_tasks/iikt/tasks-iikt-9-11-final-10-1.pdf"
+          }
+        },
+        "2": {
+          "A": {
+            "id": 3397,
+            "platform": "inf",
+            "name": "\u041f\u0430\u0440\u043a \u0430\u0442\u0442\u0440\u0430\u043a\u0446\u0438\u043e\u043d\u043e\u0432",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2010-2011/final_tasks/iikt/tasks-iikt-9-11-final-10-1.pdf"
+          },
+          "B": {
+            "id": 3398,
+            "platform": "inf",
+            "name": "\u0412\u0435\u043b\u043e\u0433\u043e\u043d\u043a\u0430",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2010-2011/final_tasks/iikt/tasks-iikt-9-11-final-10-1.pdf"
+          },
+          "C": {
+            "id": 3399,
+            "platform": "inf",
+            "name": "\u0421\u0430\u0434 \u043f\u0435\u0440\u043c\u0441\u043a\u043e\u0433\u043e \u043f\u0435\u0440\u0438\u043e\u0434\u0430",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2010-2011/final_tasks/iikt/tasks-iikt-9-11-final-10-1.pdf"
+          },
+          "D": {
+            "id": 3400,
+            "platform": "inf",
+            "name": "\u0420\u0430\u0441\u043f\u0438\u043b \u0431\u0440\u0435\u0432\u0435\u043d",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2010-2011/final_tasks/iikt/tasks-iikt-9-11-final-10-1.pdf"
+          }
+        }
+      },
+      "2012": {
+        "1": {
+          "A": {
+            "id": 111221,
+            "platform": "inf",
+            "name": "\u041f\u0430\u0440\u043e\u043b\u044c",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2011-2012/final_tasks/iikt/tasks-iikt-9-11-final-11-2.pdf"
+          },
+          "B": {
+            "id": 111222,
+            "platform": "inf",
+            "name": "\u0412\u0438\u0440\u0443\u0441\u044b \u0438 \u0430\u043d\u0442\u0438\u0432\u0438\u0440\u0443\u0441\u044b",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2011-2012/final_tasks/iikt/tasks-iikt-9-11-final-11-2.pdf"
+          },
+          "C": {
+            "id": 111223,
+            "platform": "inf",
+            "name": "\u0423\u0440\u044e\u043a",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2011-2012/final_tasks/iikt/tasks-iikt-9-11-final-11-2.pdf"
+          },
+          "D": {
+            "id": 111224,
+            "platform": "inf",
+            "name": "\u0414\u0440\u0435\u0432\u043d\u0438\u0439 \u043a\u0430\u043b\u0435\u043d\u0434\u0430\u0440\u044c",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2011-2012/final_tasks/iikt/tasks-iikt-9-11-final-11-2.pdf"
+          }
+        },
+        "2": {
+          "A": {
+            "id": 111221,
+            "platform": "inf",
+            "name": "\u041f\u0430\u0440\u043e\u043b\u044c",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2011-2012/final_tasks/iikt/tasks-iikt-9-11-final-11-2.pdf"
+          },
+          "B": {
+            "id": 111222,
+            "platform": "inf",
+            "name": "\u0412\u0438\u0440\u0443\u0441\u044b \u0438 \u0430\u043d\u0442\u0438\u0432\u0438\u0440\u0443\u0441\u044b",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2011-2012/final_tasks/iikt/tasks-iikt-9-11-final-11-2.pdf"
+          },
+          "C": {
+            "id": 111562,
+            "platform": "inf",
+            "name": "\u0401\u0436\u0438\u043a \u0432 \u0442\u0443\u043c\u0430\u043d\u0435",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2011-2012/final_tasks/iikt/tasks-iikt-9-11-final-11-2.pdf"
+          },
+          "D": {
+            "id": 111227,
+            "platform": "inf",
+            "name": "\u041e\u0440\u0434\u044b\u043d\u0441\u043a\u043e\u0435 \u0432\u043e\u0439\u0441\u043a\u043e",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2011-2012/final_tasks/iikt/tasks-iikt-9-11-final-11-2.pdf"
+          }
+        }
+      },
+      "2013": {
+        "1": {
+          "A": {
+            "id": 111633,
+            "platform": "inf",
+            "name": "\u0425\u043e\u043a\u043a\u0435\u0439 \u043d\u0430 \u0423\u0440\u0430\u043b\u0435",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2012-13/final/iikt/tasks-iikt-9-11-final-12-3.pdf"
+          },
+          "B": {
+            "id": 111634,
+            "platform": "inf",
+            "name": "\u0420\u043e\u0431\u043e\u0442",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2012-13/final/iikt/tasks-iikt-9-11-final-12-3.pdf"
+          },
+          "C": {
+            "id": 111635,
+            "platform": "inf",
+            "name": "\u0413\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0440\u0435\u0434\u0430\u043a\u0442\u043e\u0440 <<\u0425\u0430\u043c\u0435\u043b\u0435\u043e\u043d>>",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2012-13/final/iikt/tasks-iikt-9-11-final-12-3.pdf"
+          },
+          "D": {
+            "id": 111636,
+            "platform": "inf",
+            "name": "\u0414\u0440\u0435\u0432\u043d\u0438\u0435 \u0434\u0438\u043d\u0430\u0441\u0442\u0438\u0438",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2012-13/final/iikt/tasks-iikt-9-11-final-12-3.pdf"
+          }
+        },
+        "2": {
+          "A": {
+            "id": 111637,
+            "platform": "inf",
+            "name": "\u0417\u0432\u0451\u0437\u0434\u043d\u044b\u0439 \u043f\u0443\u0442\u044c",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2012-13/final/iikt/tasks-iikt-9-11-final-12-3.pdf"
+          },
+          "B": {
+            "id": 111644,
+            "platform": "inf",
+            "name": "\u041c\u043e\u0440\u0441\u043a\u043e\u0439 \u0431\u043e\u0439",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2012-13/final/iikt/tasks-iikt-9-11-final-12-3.pdf"
+          },
+          "C": {
+            "id": 111645,
+            "platform": "inf",
+            "name": "\u041c\u0430\u0441\u0441\u043e\u0432\u044b\u0439 \u043f\u0440\u043e\u0433\u043d\u043e\u0437",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2012-13/final/iikt/tasks-iikt-9-11-final-12-3.pdf"
+          },
+          "D": {
+            "id": 111646,
+            "platform": "inf",
+            "name": "\u0424\u043b\u0435\u0448\u043c\u043e\u0431",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2012-13/final/iikt/tasks-iikt-9-11-final-12-3.pdf"
+          }
+        }
+      },
+      "2014": {
+        "1": {
+          "A": {
+            "id": 112335,
+            "platform": "inf",
+            "name": " \u0410\u0432\u0442\u043e\u043c\u0430\u0442 \u0441 \u0438\u0433\u0440\u0443\u0448\u043a\u0430\u043c\u0438",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2013-14/final%20tasks/iikt/tasks-iikt-9-11-final-13-4.pdf"
+          },
+          "B": {
+            "id": 112332,
+            "platform": "inf",
+            "name": " \u041f\u043e\u0447\u0435\u043c\u0443 \u043a\u0440\u043e\u043a\u043e\u0434\u0438\u043b\u044b \u043d\u0435 \u043b\u0435\u0442\u0430\u044e\u0442?",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2013-14/final%20tasks/iikt/tasks-iikt-9-11-final-13-4.pdf"
+          },
+          "C": {
+            "id": 112333,
+            "platform": "inf",
+            "name": "\u041f\u0435\u0442\u044f \u0438 \u0420\u043e\u0431\u043e\u0442",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2013-14/final%20tasks/iikt/tasks-iikt-9-11-final-13-4.pdf"
+          },
+          "D": {
+            "id": 112334,
+            "platform": "inf",
+            "name": " \u041a\u043e\u043b\u043b\u0430\u0439\u0434\u0435\u0440 2.0",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2013-14/final%20tasks/iikt/tasks-iikt-9-11-final-13-4.pdf"
+          }
+        },
+        "2": {
+          "A": {
+            "id": 112328,
+            "platform": "inf",
+            "name": "\u041a\u0438\u043d\u043e\u0430\u043a\u0430\u0434\u0435\u043c\u0438\u044f",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2013-14/final%20tasks/iikt/tasks-iikt-9-11-final-13-4.pdf"
+          },
+          "B": {
+            "id": 112329,
+            "platform": "inf",
+            "name": "\u041c\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u043b\u044c \"\u0423\u0440\u0430\u043b\"",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2013-14/final%20tasks/iikt/tasks-iikt-9-11-final-13-4.pdf"
+          },
+          "C": {
+            "id": 112330,
+            "platform": "inf",
+            "name": "\u0417\u0434\u043e\u0440\u043e\u0432\u043e\u0435 \u043f\u0438\u0442\u0430\u043d\u0438\u0435",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2013-14/final%20tasks/iikt/tasks-iikt-9-11-final-13-4.pdf"
+          },
+          "D": {
+            "id": -1,
+            "platform": "inf",
+            "name": "unknown",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2013-14/final%20tasks/iikt/tasks-iikt-9-11-final-13-4.pdf"
+          }
+        }
+      },
+      "2015": {
+        "1": {
+          "A": {
+            "id": 112815,
+            "platform": "inf",
+            "name": " \u0410\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0434\u0440\u0443\u0437\u044c\u044f",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2014-15/final_tasks/iikt/tasks-iikt-9-11-final-14-5.pdf"
+          },
+          "B": {
+            "id": 112816,
+            "platform": "inf",
+            "name": " \u041f\u0430\u043c\u044f\u0442\u043d\u0438\u043a",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2014-15/final_tasks/iikt/tasks-iikt-9-11-final-14-5.pdf"
+          },
+          "C": {
+            "id": 112817,
+            "platform": "inf",
+            "name": " \u0412\u044b\u0448\u0438\u0432\u043a\u0430 \u0436\u0435\u043c\u0447\u0443\u0433\u043e\u043c",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2014-15/final_tasks/iikt/tasks-iikt-9-11-final-14-5.pdf"
+          },
+          "D": {
+            "id": 112818,
+            "platform": "inf",
+            "name": " \u041f\u0438\u043d\u0433\u0432\u0438\u043d\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u0435",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2014-15/final_tasks/iikt/tasks-iikt-9-11-final-14-5.pdf"
+          }
+        },
+        "2": {
+          "A": {
+            "id": 112819,
+            "platform": "inf",
+            "name": " \u041f\u043e\u043c\u043e\u0436\u0435\u043c \u0434\u0438\u043a\u043e\u0439 \u043f\u0440\u0438\u0440\u043e\u0434\u0435",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2014-15/final_tasks/iikt/tasks-iikt-9-11-final-14-5.pdf"
+          },
+          "B": {
+            "id": 112820,
+            "platform": "inf",
+            "name": " \u041f\u043e\u0434\u0432\u043e\u0434\u043d\u0430\u044f \u043b\u043e\u0434\u043a\u0430",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2014-15/final_tasks/iikt/tasks-iikt-9-11-final-14-5.pdf"
+          },
+          "C": {
+            "id": 112821,
+            "platform": "inf",
+            "name": " \u0424\u043e\u043d\u0430\u0440\u0438",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2014-15/final_tasks/iikt/tasks-iikt-9-11-final-14-5.pdf"
+          },
+          "D": {
+            "id": 112822,
+            "platform": "inf",
+            "name": " \u0421\u0438\u0433\u043d\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2014-15/final_tasks/iikt/tasks-iikt-9-11-final-14-5.pdf"
+          }
+        }
+      },
+      "2016": {
+        "1": {
+          "A": {
+            "id": 113217,
+            "platform": "inf",
+            "name": " \u041e\u0431\u043e\u0440\u043e\u043d\u0430 \u043a\u0440\u0435\u043f\u043e\u0441\u0442\u0438",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2015-16/final/iikt/tasks-iikt-9-11-final-15-6.pdf"
+          },
+          "B": {
+            "id": 113218,
+            "platform": "inf",
+            "name": " \u042d\u043a\u0441\u043f\u0435\u0440\u0438\u043c\u0435\u043d\u0442\u0430\u043b\u044c\u043d\u0430\u044f \u0440\u043e\u0431\u043e\u0442\u043e\u0442\u0435\u0445\u043d\u0438\u043a\u0430",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2015-16/final/iikt/tasks-iikt-9-11-final-15-6.pdf"
+          },
+          "C": {
+            "id": 113219,
+            "platform": "inf",
+            "name": " \u041b\u043e\u0432\u0438\u0442\u044c \u0438\u043b\u0438 \u043d\u0435 \u043b\u043e\u0432\u0438\u0442\u044c",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2015-16/final/iikt/tasks-iikt-9-11-final-15-6.pdf"
+          },
+          "D": {
+            "id": 113220,
+            "platform": "inf",
+            "name": " \u041e\u0431\u0438\u0442\u0430\u0435\u043c\u044b\u0435 \u0433\u043e\u0440\u044b",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2015-16/final/iikt/tasks-iikt-9-11-final-15-6.pdf"
+          }
+        },
+        "2": {
+          "A": {
+            "id": 113221,
+            "platform": "inf",
+            "name": "\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u0432\u0438\u0434\u0435\u043e\u043d\u0430\u0431\u043b\u044e\u0434\u0435\u043d\u0438\u0435\u043c",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2015-16/final/iikt/tasks-iikt-9-11-final-15-6.pdf"
+          },
+          "B": {
+            "id": 113222,
+            "platform": "inf",
+            "name": "\u0420\u0430\u0441\u0448\u0438\u0444\u0440\u043e\u0432\u043a\u0430 \u0414\u041d\u041a",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2015-16/final/iikt/tasks-iikt-9-11-final-15-6.pdf"
+          },
+          "C": {
+            "id": 113223,
+            "platform": "inf",
+            "name": "\u041a\u0443\u0440\u044c\u0435\u0440\u0441\u043a\u0430\u044f \u0441\u043b\u0443\u0436\u0431\u0430",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2015-16/final/iikt/tasks-iikt-9-11-final-15-6.pdf"
+          },
+          "D": {
+            "id": 113224,
+            "platform": "inf",
+            "name": " \u0422\u0440\u0435\u043d\u0430\u0436\u0451\u0440 \u00ab\\(10_2\\)-\u043f\u0430\u043b\u044c\u0446\u0435\u0432\u044b\u0439 \u043d\u0430\u0431\u043e\u0440\u00bb",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2015-16/final/iikt/tasks-iikt-9-11-final-15-6.pdf"
+          }
+        }
+      },
+      "2017": {
+        "1": {
+          "A": {
+            "id": 113544,
+            "platform": "inf",
+            "name": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u0432\u0430\u0434\u0440\u043e\u043a\u043e\u043f\u0442\u0435\u0440\u043e\u0432",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2016-17/final/iikt/task-iikt-9-11-final-16-7.pdf"
+          },
+          "B": {
+            "id": 113545,
+            "platform": "inf",
+            "name": "\u0418\u043b\u043b\u044e\u0437\u0438\u044f \u0441\u043e\u0440\u0442\u0438\u0440\u043e\u0432\u043a\u0438",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2016-17/final/iikt/task-iikt-9-11-final-16-7.pdf"
+          },
+          "C": {
+            "id": 113546,
+            "platform": "inf",
+            "name": "\u0422\u0438\u0433\u0440\u044b",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2016-17/final/iikt/task-iikt-9-11-final-16-7.pdf"
+          },
+          "D": {
+            "id": 113547,
+            "platform": "inf",
+            "name": "\u041f\u0443\u0442\u0435\u0448\u0435\u0441\u0442\u0432\u0438\u0435 \u0432 \u041c\u0435\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u0441",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2016-17/final/iikt/task-iikt-9-11-final-16-7.pdf"
+          }
+        },
+        "2": {
+          "A": {
+            "id": 113548,
+            "platform": "inf",
+            "name": "\u041d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044c",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2016-17/final/iikt/task-iikt-9-11-final-16-7.pdf"
+          },
+          "B": {
+            "id": 113549,
+            "platform": "inf",
+            "name": "\u0421\u0435\u0440\u0432\u0435\u0440\u044b \u043d\u0430 \u041c\u0435\u0440\u043a\u0443\u0440\u0438\u0438",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2016-17/final/iikt/task-iikt-9-11-final-16-7.pdf"
+          },
+          "C": {
+            "id": 113550,
+            "platform": "inf",
+            "name": "\u0410\u043d\u0442\u0438\u0432\u0435\u0449\u0435\u0441\u0442\u0432\u043e",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2016-17/final/iikt/task-iikt-9-11-final-16-7.pdf"
+          },
+          "D": {
+            "id": 113551,
+            "platform": "inf",
+            "name": "\u0422\u0440\u0430\u0435\u043a\u0442\u043e\u0440\u0438\u044f \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u044f",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2016-17/final/iikt/task-iikt-9-11-final-16-7.pdf"
+          }
+        }
+      },
+      "2018": {
+        "1": {
+          "A": {
+            "id": 113911,
+            "platform": "inf",
+            "name": "\u0414\u043e\u0431\u044b\u0447\u0430 \u0440\u0430\u0434\u0438\u044f",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2017-18/final/iikt/73-ans-iikt-9-11-final-17-8.pdf"
+          },
+          "B": {
+            "id": 113912,
+            "platform": "inf",
+            "name": "\u0412\u0438\u0440\u0443\u0441\u044b",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2017-18/final/iikt/73-ans-iikt-9-11-final-17-8.pdf"
+          },
+          "C": {
+            "id": 113913,
+            "platform": "inf",
+            "name": "\u0418\u043d\u043d\u043e\u0444\u043e\u043d",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2017-18/final/iikt/73-ans-iikt-9-11-final-17-8.pdf"
+          },
+          "D": {
+            "id": 113914,
+            "platform": "inf",
+            "name": "\u041a\u0432\u0430\u043d\u0442\u043e\u0432\u0430\u044f \u0442\u0435\u043b\u0435\u043f\u043e\u0440\u0442\u0430\u0446\u0438\u044f",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2017-18/final/iikt/73-ans-iikt-9-11-final-17-8.pdf"
+          }
+        },
+        "2": {
+          "A": {
+            "id": 113915,
+            "platform": "inf",
+            "name": "\u0420\u0430\u0441\u0448\u0438\u0444\u0440\u043e\u0432\u043a\u0430",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2017-18/final/iikt/73-ans-iikt-9-11-final-17-8.pdf"
+          },
+          "B": {
+            "id": 113916,
+            "platform": "inf",
+            "name": "\u0411\u044b\u0441\u0442\u0440\u0430\u044f \u0441\u043e\u0440\u0442\u0438\u0440\u043e\u0432\u043a\u0430",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2017-18/final/iikt/73-ans-iikt-9-11-final-17-8.pdf"
+          },
+          "C": {
+            "id": 113917,
+            "platform": "inf",
+            "name": "\u0420\u043e\u0431\u043e\u043c\u0430\u0440\u0430\u0444\u043e\u043d",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2017-18/final/iikt/73-ans-iikt-9-11-final-17-8.pdf"
+          },
+          "D": {
+            "id": 113918,
+            "platform": "inf",
+            "name": "\u0421\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0431\u0435\u0437 \u043f\u0435\u0440\u0435\u043d\u043e\u0441\u043e\u0432",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2017-18/final/iikt/73-ans-iikt-9-11-final-17-8.pdf"
+          }
+        }
+      },
+      "2019": {
+        "1": {
+          "A": {
+            "id": -1,
+            "platform": "inf",
+            "name": "unknown",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2018-19/final/iikt/73-tasks-iikt-9-11-final-18-9.pdf"
+          },
+          "B": {
+            "id": -1,
+            "platform": "inf",
+            "name": "unknown",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2018-19/final/iikt/73-tasks-iikt-9-11-final-18-9.pdf"
+          },
+          "C": {
+            "id": -1,
+            "platform": "inf",
+            "name": "unknown",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2018-19/final/iikt/73-tasks-iikt-9-11-final-18-9.pdf"
+          },
+          "D": {
+            "id": -1,
+            "platform": "inf",
+            "name": "unknown",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2018-19/final/iikt/73-tasks-iikt-9-11-final-18-9.pdf"
+          }
+        },
+        "2": {
+          "A": {
+            "id": -1,
+            "platform": "inf",
+            "name": "unknown",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2018-19/final/iikt/73-tasks-iikt-9-11-final-18-9.pdf"
+          },
+          "B": {
+            "id": -1,
+            "platform": "inf",
+            "name": "unknown",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2018-19/final/iikt/73-tasks-iikt-9-11-final-18-9.pdf"
+          },
+          "C": {
+            "id": -1,
+            "platform": "inf",
+            "name": "unknown",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2018-19/final/iikt/73-tasks-iikt-9-11-final-18-9.pdf"
+          },
+          "D": {
+            "id": -1,
+            "platform": "inf",
+            "name": "unknown",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2018-19/final/iikt/73-tasks-iikt-9-11-final-18-9.pdf"
+          }
+        }
+      }
+    },
+    "Regional_stage": {
+      "2009": {
+        "1": {
+          "A": {
+            "id": 1205,
+            "platform": "inf",
+            "name": "\u0427\u0435\u0440\u043d\u043e-\u0431\u0435\u043b\u0430\u044f \u0433\u0440\u0430\u0444\u0438\u043a\u0430",
+            "statement": "."
+          },
+          "B": {
+            "id": 1206,
+            "platform": "inf",
+            "name": "\u0413\u0430\u0437\u043e\u043d",
+            "statement": "."
+          },
+          "C": {
+            "id": 1207,
+            "platform": "inf",
+            "name": "\u0422\u0440\u0430\u043c\u0432\u0430\u0439",
+            "statement": "."
+          },
+          "D": {
+            "id": 1208,
+            "platform": "inf",
+            "name": "\u0422\u0440\u0435\u0443\u0433\u043e\u043b\u044c\u043d\u0438\u043a\u0438",
+            "statement": "."
+          }
+        },
+        "2": {
+          "A": {
+            "id": 1209,
+            "platform": "inf",
+            "name": "\u041a\u043b\u0430\u0432\u0438\u0430\u0442\u0443\u0440\u0430",
+            "statement": "."
+          },
+          "B": {
+            "id": 1210,
+            "platform": "inf",
+            "name": "\u041d\u0435\u043f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u043e\u0435 \u0441\u043b\u043e\u0436\u0435\u043d\u0438\u0435",
+            "statement": "."
+          },
+          "C": {
+            "id": 1211,
+            "platform": "inf",
+            "name": "\u0427\u0438\u0441\u043b\u0430",
+            "statement": "."
+          },
+          "D": {
+            "id": 1212,
+            "platform": "inf",
+            "name": "\u041f\u0435\u0440\u0435\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0438",
+            "statement": "."
+          }
+        }
+      },
+      "2010": {
+        "1": {
+          "A": {
+            "id": 1922,
+            "platform": "inf",
+            "name": "\u0421\u043e\u0440\u0435\u0432\u043d\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u0430\u0440\u0442\u0438\u043d\u0433\u0438\u0441\u0442\u043e\u0432",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2009-2010/region_tasks/Informatics/tasks-iikt-9-11-reg-09-0.pdf"
+          },
+          "B": {
+            "id": 1923,
+            "platform": "inf",
+            "name": "\u0414\u0438\u043f\u043b\u043e\u043c\u044b",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2009-2010/region_tasks/Informatics/tasks-iikt-9-11-reg-09-0.pdf"
+          },
+          "C": {
+            "id": 1924,
+            "platform": "inf",
+            "name": "\u0411\u0443\u043b\u0435\u0432\u0430 \u0444\u0443\u043d\u043a\u0446\u0438\u044f",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2009-2010/region_tasks/Informatics/tasks-iikt-9-11-reg-09-0.pdf"
+          },
+          "D": {
+            "id": 1925,
+            "platform": "inf",
+            "name": "\u041a\u043e\u043b\u044c\u0446\u0435\u0432\u0430\u044f \u0430\u0432\u0442\u043e\u0434\u043e\u0440\u043e\u0433\u0430",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2009-2010/region_tasks/Informatics/tasks-iikt-9-11-reg-09-0.pdf"
+          }
+        },
+        "2": {
+          "A": {
+            "id": 1926,
+            "platform": "inf",
+            "name": "\u041c\u0438\u0448\u0430 \u0438 \u043d\u0435\u0433\u0430\u0442\u0438\u0432",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2009-2010/region_tasks/Informatics/tasks-iikt-9-11-reg-09-0.pdf"
+          },
+          "B": {
+            "id": 1927,
+            "platform": "inf",
+            "name": "\u0422\u0440\u0435\u0443\u0433\u043e\u043b\u044c\u043d\u0438\u043a \u041c\u0430\u043a\u0441\u0438\u043c\u0430",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2009-2010/region_tasks/Informatics/tasks-iikt-9-11-reg-09-0.pdf"
+          },
+          "C": {
+            "id": 1928,
+            "platform": "inf",
+            "name": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u043e \u0434\u0435\u0442\u0430\u043b\u0435\u0439",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2009-2010/region_tasks/Informatics/tasks-iikt-9-11-reg-09-0.pdf"
+          },
+          "D": {
+            "id": 1929,
+            "platform": "inf",
+            "name": "\u041d\u043e\u0432\u043e\u0435 \u0441\u043b\u043e\u0432\u043e \u0432 \u0440\u0435\u043a\u043b\u0430\u043c\u0435",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2009-2010/region_tasks/Informatics/tasks-iikt-9-11-reg-09-0.pdf"
+          }
+        }
+      },
+      "2011": {
+        "1": {
+          "A": {
+            "id": 3206,
+            "platform": "inf",
+            "name": "\u0428\u0430\u0445\u043c\u0430\u0442\u043d\u0430\u044f \u0434\u043e\u0441\u043a\u0430",
+            "statement": "https://olimpiada.ru/upload/files/Arhive_tasks/2010-2011/region_tasks/Informatics/tasks-iikt-9-11-reg-10-1.pdf"
+          },
+          "B": {
+            "id": 3207,
+            "platform": "inf",
+            "name": "\u0427\u0435\u043c\u043f\u0438\u043e\u043d\u0430\u0442 \u043f\u043e \u0441\u0442\u0440\u0435\u043b\u044c\u0431\u0435",
+            "statement": "https://olimpiada.ru/upload/files/Arhive_tasks/2010-2011/region_tasks/Informatics/tasks-iikt-9-11-reg-10-1.pdf"
+          },
+          "C": {
+            "id": 3208,
+            "platform": "inf",
+            "name": "\u0414\u0435\u043b\u0438\u0442\u0435\u043b\u0438",
+            "statement": "https://olimpiada.ru/upload/files/Arhive_tasks/2010-2011/region_tasks/Informatics/tasks-iikt-9-11-reg-10-1.pdf"
+          },
+          "D": {
+            "id": 3209,
+            "platform": "inf",
+            "name": "\u0414\u043e\u043c \u0443 \u0434\u043e\u0440\u043e\u0433\u0438",
+            "statement": "https://olimpiada.ru/upload/files/Arhive_tasks/2010-2011/region_tasks/Informatics/tasks-iikt-9-11-reg-10-1.pdf"
+          }
+        },
+        "2": {
+          "A": {
+            "id": 3181,
+            "platform": "inf",
+            "name": "\u0420\u043e\u043b\u0435\u0432\u0430\u044f \u0438\u0433\u0440\u0430",
+            "statement": "https://olimpiada.ru/upload/files/Arhive_tasks/2010-2011/region_tasks/Informatics/tasks-iikt-9-11-reg-10-1.pdf"
+          },
+          "B": {
+            "id": 3182,
+            "platform": "inf",
+            "name": "\u041a\u043e\u043b\u0435\u0441\u043e \u0424\u043e\u0440\u0442\u0443\u043d\u044b",
+            "statement": "https://olimpiada.ru/upload/files/Arhive_tasks/2010-2011/region_tasks/Informatics/tasks-iikt-9-11-reg-10-1.pdf"
+          },
+          "C": {
+            "id": 3183,
+            "platform": "inf",
+            "name": "\u0424\u043e\u0440\u043c\u0430\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0442\u0435\u043a\u0441\u0442\u0430",
+            "statement": "https://olimpiada.ru/upload/files/Arhive_tasks/2010-2011/region_tasks/Informatics/tasks-iikt-9-11-reg-10-1.pdf"
+          },
+          "D": {
+            "id": 3184,
+            "platform": "inf",
+            "name": "\u041a\u043e\u0441\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+            "statement": "https://olimpiada.ru/upload/files/Arhive_tasks/2010-2011/region_tasks/Informatics/tasks-iikt-9-11-reg-10-1.pdf"
+          }
+        }
+      },
+      "2012": {
+        "1": {
+          "A": {
+            "id": 3864,
+            "platform": "inf",
+            "name": "\u0426\u0430\u043f\u043b\u0438",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2011-2012/region_tasks/Informatics/tasks-iikt-9-11-reg-11-2.pdf"
+          },
+          "B": {
+            "id": 3865,
+            "platform": "inf",
+            "name": "\u041a\u0440\u0443\u0433\u043b\u044b\u0439 \u0441\u0442\u043e\u043b",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2011-2012/region_tasks/Informatics/tasks-iikt-9-11-reg-11-2.pdf"
+          },
+          "C": {
+            "id": 3866,
+            "platform": "inf",
+            "name": "\u041f\u043e\u0432\u0440\u0435\u0436\u0434\u0435\u043d\u043d\u044b\u0439 XML",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2011-2012/region_tasks/Informatics/tasks-iikt-9-11-reg-11-2.pdf"
+          },
+          "D": {
+            "id": 3867,
+            "platform": "inf",
+            "name": "\u0418\u0433\u0440\u0430 \u0441 \u0447\u0438\u0441\u043b\u0430\u043c\u0438",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2011-2012/region_tasks/Informatics/tasks-iikt-9-11-reg-11-2.pdf"
+          }
+        },
+        "2": {
+          "A": {
+            "id": 3868,
+            "platform": "inf",
+            "name": "\u041a\u043e\u043d\u0434\u0438\u0446\u0438\u043e\u043d\u0435\u0440",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2011-2012/region_tasks/Informatics/tasks-iikt-9-11-reg-11-2.pdf"
+          },
+          "B": {
+            "id": 3869,
+            "platform": "inf",
+            "name": "\u041f\u0440\u0430\u0437\u0434\u043d\u0438\u0447\u043d\u044b\u0439 \u0443\u0436\u0438\u043d",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2011-2012/region_tasks/Informatics/tasks-iikt-9-11-reg-11-2.pdf"
+          },
+          "C": {
+            "id": 3870,
+            "platform": "inf",
+            "name": "\u041a\u043e\u0441\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043a\u0435\u0433\u0435\u043b\u044c\u0431\u0430\u043d",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2011-2012/region_tasks/Informatics/tasks-iikt-9-11-reg-11-2.pdf"
+          },
+          "D": {
+            "id": 3871,
+            "platform": "inf",
+            "name": "\u00abAbracadabra\u00bb",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2011-2012/region_tasks/Informatics/tasks-iikt-9-11-reg-11-2.pdf"
+          }
+        }
+      },
+      "2013": {
+        "1": {
+          "A": {
+            "id": 111488,
+            "platform": "inf",
+            "name": "\u041a\u0430\u0441\u0442\u0438\u043d\u0433",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2012-13/reg/iikt/tasks-iikt-9-11-reg-12-3.pdf"
+          },
+          "B": {
+            "id": 111489,
+            "platform": "inf",
+            "name": "\u0413\u043e\u0440\u043e\u0434\u0430",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2012-13/reg/iikt/tasks-iikt-9-11-reg-12-3.pdf"
+          },
+          "C": {
+            "id": 111490,
+            "platform": "inf",
+            "name": "A + B = C",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2012-13/reg/iikt/tasks-iikt-9-11-reg-12-3.pdf"
+          },
+          "D": {
+            "id": 111491,
+            "platform": "inf",
+            "name": "\u0411\u0435\u0440\u0435\u0437\u043e\u0432\u0430\u044f \u0430\u043b\u043b\u0435\u044f",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2012-13/reg/iikt/tasks-iikt-9-11-reg-12-3.pdf"
+          }
+        },
+        "2": {
+          "A": {
+            "id": 111488,
+            "platform": "inf",
+            "name": "\u041a\u0430\u0441\u0442\u0438\u043d\u0433",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2012-13/reg/iikt/tasks-iikt-9-11-reg-12-3.pdf"
+          },
+          "B": {
+            "id": 111489,
+            "platform": "inf",
+            "name": "\u0413\u043e\u0440\u043e\u0434\u0430",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2012-13/reg/iikt/tasks-iikt-9-11-reg-12-3.pdf"
+          },
+          "C": {
+            "id": 111490,
+            "platform": "inf",
+            "name": "A + B = C",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2012-13/reg/iikt/tasks-iikt-9-11-reg-12-3.pdf"
+          },
+          "D": {
+            "id": 111491,
+            "platform": "inf",
+            "name": "\u0411\u0435\u0440\u0435\u0437\u043e\u0432\u0430\u044f \u0430\u043b\u043b\u0435\u044f",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2012-13/reg/iikt/tasks-iikt-9-11-reg-12-3.pdf"
+          }
+        }
+      },
+      "2014": {
+        "1": {
+          "A": {
+            "id": 112036,
+            "platform": "inf",
+            "name": "POBEDA-2014",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2013-14/region_tasks/iikt/tasks-iikt-9-11-reg-13-4.pdf"
+          },
+          "B": {
+            "id": 112037,
+            "platform": "inf",
+            "name": "\u0421\u043f\u0438\u0441\u043e\u043a \u0448\u043a\u043e\u043b",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2013-14/region_tasks/iikt/tasks-iikt-9-11-reg-13-4.pdf"
+          },
+          "C": {
+            "id": 112038,
+            "platform": "inf",
+            "name": "\u041c\u0435\u0436\u0440\u0435\u0433\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u0430\u044f \u043e\u043b\u0438\u043c\u043f\u0438\u0430\u0434\u0430",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2013-14/region_tasks/iikt/tasks-iikt-9-11-reg-13-4.pdf"
+          },
+          "D": {
+            "id": 112039,
+            "platform": "inf",
+            "name": "\u0414\u043e\u043c \u041c\u044d\u0440\u0430",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2013-14/region_tasks/iikt/tasks-iikt-9-11-reg-13-4.pdf"
+          }
+        },
+        "2": {
+          "A": {
+            "id": 112040,
+            "platform": "inf",
+            "name": "\u0421\u0432\u0435\u0442\u043e\u0444\u043e\u0440\u044b",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2013-14/region_tasks/iikt/tasks-iikt-9-11-reg-13-4.pdf"
+          },
+          "B": {
+            "id": 112041,
+            "platform": "inf",
+            "name": "\u041a\u043e\u043d\u0434\u0438\u0446\u0438\u043e\u043d\u0435\u0440\u044b",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2013-14/region_tasks/iikt/tasks-iikt-9-11-reg-13-4.pdf"
+          },
+          "C": {
+            "id": 112042,
+            "platform": "inf",
+            "name": "\u041a\u043e\u043d\u0444\u0435\u0442\u044b",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2013-14/region_tasks/iikt/tasks-iikt-9-11-reg-13-4.pdf"
+          },
+          "D": {
+            "id": 112043,
+            "platform": "inf",
+            "name": "\u0412\u043e\u043b\u043e\u043d\u0442\u0435\u0440\u044b",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2013-14/region_tasks/iikt/tasks-iikt-9-11-reg-13-4.pdf"
+          }
+        }
+      },
+      "2015": {
+        "1": {
+          "A": {
+            "id": 112744,
+            "platform": "inf",
+            "name": "\u0412\u044b\u0431\u043e\u0440 \u0437\u0430\u043b\u0430",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2014-15/region_tasks/iikt/tasks-iikt-9-11-reg-14-5.pdf"
+          },
+          "B": {
+            "id": 112745,
+            "platform": "inf",
+            "name": "\u041f\u0440\u0438\u0437\u044b(2015)",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2014-15/region_tasks/iikt/tasks-iikt-9-11-reg-14-5.pdf"
+          },
+          "C": {
+            "id": 112746,
+            "platform": "inf",
+            "name": "\u0420\u0435\u043a\u0430",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2014-15/region_tasks/iikt/tasks-iikt-9-11-reg-14-5.pdf"
+          },
+          "D": {
+            "id": 112747,
+            "platform": "inf",
+            "name": "\u0427\u0435\u043c\u043f\u0438\u043e\u043d\u0430\u0442 \u043f\u043e \u043f\u043e\u0438\u0441\u043a\u0443 \u0432 \u0441\u0435\u0442\u0438 \u041c\u0435\u0433\u0430\u043d\u0435\u0442",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2014-15/region_tasks/iikt/tasks-iikt-9-11-reg-14-5.pdf"
+          }
+        },
+        "2": {
+          "A": {
+            "id": 112748,
+            "platform": "inf",
+            "name": "\u041a\u043e\u043b\u044c\u0446\u0435\u0432\u0430\u044f \u043b\u0438\u043d\u0438\u044f",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2014-15/region_tasks/iikt/tasks-iikt-9-11-reg-14-5.pdf"
+          },
+          "B": {
+            "id": 112749,
+            "platform": "inf",
+            "name": "\u0412\u044b\u0440\u0443\u0431\u043a\u0430 \u043b\u0435\u0441\u0430",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2014-15/region_tasks/iikt/tasks-iikt-9-11-reg-14-5.pdf"
+          },
+          "C": {
+            "id": 112750,
+            "platform": "inf",
+            "name": "\u0423\u043a\u043b\u0430\u0434\u043a\u0430 \u043f\u043b\u0438\u0442\u043a\u0438",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2014-15/region_tasks/iikt/tasks-iikt-9-11-reg-14-5.pdf"
+          },
+          "D": {
+            "id": 112751,
+            "platform": "inf",
+            "name": "\u041c\u0430\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043f\u043e\u0440\u0442\u0430\u043b\u044b",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2014-15/region_tasks/iikt/tasks-iikt-9-11-reg-14-5.pdf"
+          }
+        }
+      },
+      "2016": {
+        "1": {
+          "A": {
+            "id": 113096,
+            "platform": "inf",
+            "name": " \u041f\u0440\u0438\u0437\u044b(2016)",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2015-16/region/iikt/tasks-iikt-9-11-reg-15-6.pdf"
+          },
+          "B": {
+            "id": 113097,
+            "platform": "inf",
+            "name": " \u041a\u043e\u0441\u043c\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043f\u043e\u0441\u0435\u043b\u0435\u043d\u0438\u0435",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2015-16/region/iikt/tasks-iikt-9-11-reg-15-6.pdf"
+          },
+          "C": {
+            "id": 113098,
+            "platform": "inf",
+            "name": " \u0421\u0442\u0440\u0430\u043d\u043d\u044b\u0435 \u0441\u0442\u0440\u043e\u043a\u0438",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2015-16/region/iikt/tasks-iikt-9-11-reg-15-6.pdf"
+          },
+          "D": {
+            "id": 113099,
+            "platform": "inf",
+            "name": " \u041f\u043e\u0435\u0437\u0434\u043a\u0430 \u043d\u0430 \u043a\u0430\u043d\u0438\u043a\u0443\u043b\u0430\u0445",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2015-16/region/iikt/tasks-iikt-9-11-reg-15-6.pdf"
+          }
+        },
+        "2": {
+          "A": {
+            "id": 113096,
+            "platform": "inf",
+            "name": " \u041f\u0440\u0438\u0437\u044b(2016)",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2015-16/region/iikt/tasks-iikt-9-11-reg-15-6.pdf"
+          },
+          "B": {
+            "id": 113097,
+            "platform": "inf",
+            "name": " \u041a\u043e\u0441\u043c\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043f\u043e\u0441\u0435\u043b\u0435\u043d\u0438\u0435",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2015-16/region/iikt/tasks-iikt-9-11-reg-15-6.pdf"
+          },
+          "C": {
+            "id": 113098,
+            "platform": "inf",
+            "name": " \u0421\u0442\u0440\u0430\u043d\u043d\u044b\u0435 \u0441\u0442\u0440\u043e\u043a\u0438",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2015-16/region/iikt/tasks-iikt-9-11-reg-15-6.pdf"
+          },
+          "D": {
+            "id": 113099,
+            "platform": "inf",
+            "name": " \u041f\u043e\u0435\u0437\u0434\u043a\u0430 \u043d\u0430 \u043a\u0430\u043d\u0438\u043a\u0443\u043b\u0430\u0445",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2015-16/region/iikt/tasks-iikt-9-11-reg-15-6.pdf"
+          }
+        }
+      },
+      "2017": {
+        "1": {
+          "A": {
+            "id": 113439,
+            "platform": "inf",
+            "name": " \u041a\u0430\u043c\u043f\u0443\u0441",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2016-17/region/iikt/tasks-iikt-9-11-reg-16-7.pdf"
+          },
+          "B": {
+            "id": 113440,
+            "platform": "inf",
+            "name": " \u041a\u0430\u043b\u044c\u043a\u0443\u043b\u044f\u0442\u043e\u0440",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2016-17/region/iikt/tasks-iikt-9-11-reg-16-7.pdf"
+          },
+          "C": {
+            "id": 113441,
+            "platform": "inf",
+            "name": " \u0420\u0430\u0437\u043c\u0435\u0449\u0435\u043d\u0438\u0435 \u0434\u0430\u043d\u043d\u044b\u0445",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2016-17/region/iikt/tasks-iikt-9-11-reg-16-7.pdf"
+          },
+          "D": {
+            "id": 113442,
+            "platform": "inf",
+            "name": " \u041f\u043e\u043b\u0435\u0437\u043d\u044b\u0435 \u0438\u0441\u043a\u043e\u043f\u0430\u0435\u043c\u044b\u0435",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2016-17/region/iikt/tasks-iikt-9-11-reg-16-7.pdf"
+          }
+        },
+        "2": {
+          "A": {
+            "id": 113443,
+            "platform": "inf",
+            "name": " \u0410\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0435 \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u0434\u043e\u0441\u0442\u0430\u0432\u043a\u043e\u0439",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2016-17/region/iikt/tasks-iikt-9-11-reg-16-7.pdf"
+          },
+          "B": {
+            "id": 113444,
+            "platform": "inf",
+            "name": " \u0411\u043e\u043b\u044c\u0448\u043e\u0439 \u043b\u0438\u043d\u0435\u0439\u043d\u044b\u0439 \u043a\u043e\u043b\u043b\u0430\u0439\u0434\u0435\u0440",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2016-17/region/iikt/tasks-iikt-9-11-reg-16-7.pdf"
+          },
+          "C": {
+            "id": 113445,
+            "platform": "inf",
+            "name": " \u0421\u0438\u043b\u043e\u0432\u044b\u0435 \u043f\u043e\u043b\u044f",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2016-17/region/iikt/tasks-iikt-9-11-reg-16-7.pdf"
+          },
+          "D": {
+            "id": 113446,
+            "platform": "inf",
+            "name": " \u041f\u043e\u0432\u044b\u0448\u0435\u043d\u0438\u0435 \u043a\u0432\u0430\u043b\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2016-17/region/iikt/tasks-iikt-9-11-reg-16-7.pdf"
+          }
+        }
+      },
+      "2018": {
+        "1": {
+          "A": {
+            "id": 113757,
+            "platform": "inf",
+            "name": "\u0423\u043b\u0443\u0447\u0448\u0435\u043d\u0438\u0435 \u0443\u0441\u043f\u0435\u0432\u0430\u0435\u043c\u043e\u0441\u0442\u0438",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2017-18/region/iikt/tasks-iikt-9-11-reg-17-8.pdf"
+          },
+          "B": {
+            "id": 113758,
+            "platform": "inf",
+            "name": "\u041a\u0432\u0430\u0434\u0440\u0430\u0442\u044b \u0438 \u043a\u0443\u0431\u044b",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2017-18/region/iikt/tasks-iikt-9-11-reg-17-8.pdf"
+          },
+          "C": {
+            "id": 113759,
+            "platform": "inf",
+            "name": "\u041b\u0438\u0444\u0442",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2017-18/region/iikt/tasks-iikt-9-11-reg-17-8.pdf"
+          },
+          "D": {
+            "id": 113760,
+            "platform": "inf",
+            "name": "\u041c\u043e\u043d\u0438\u0442\u043e\u0440\u0438\u043d\u0433 \u0442\u0440\u0443\u0431",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2017-18/region/iikt/tasks-iikt-9-11-reg-17-8.pdf"
+          }
+        },
+        "2": {
+          "A": {
+            "id": 113761,
+            "platform": "inf",
+            "name": "\u0423\u0434\u0430\u043b\u0435\u043d\u0438\u0435 \u0447\u0438\u0441\u0435\u043b",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2017-18/region/iikt/tasks-iikt-9-11-reg-17-8.pdf"
+          },
+          "B": {
+            "id": 113762,
+            "platform": "inf",
+            "name": "\u0421\u0442\u0430\u0440\u0430\u044f \u043a\u043d\u0438\u0433\u0430",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2017-18/region/iikt/tasks-iikt-9-11-reg-17-8.pdf"
+          },
+          "C": {
+            "id": 113763,
+            "platform": "inf",
+            "name": "\u041a\u0440\u0430\u0441\u043e\u0442\u0430 \u0444\u0435\u0439\u0440\u0432\u0435\u0440\u043a\u0430",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2017-18/region/iikt/tasks-iikt-9-11-reg-17-8.pdf"
+          },
+          "D": {
+            "id": 113764,
+            "platform": "inf",
+            "name": "\u041e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0431\u043e\u043b\u044c\u0448\u0438\u0445 \u0434\u0430\u043d\u043d\u044b\u0445",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2017-18/region/iikt/tasks-iikt-9-11-reg-17-8.pdf"
+          }
+        }
+      },
+      "2019": {
+        "1": {
+          "A": {
+            "id": 114038,
+            "platform": "inf",
+            "name": "\u0414\u0432\u0430 \u0438\u0437\u043c\u0435\u0440\u0435\u043d\u0438\u044f",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2018-19/region/iikt/task-iikt-9-11-reg-18-9.pdf"
+          },
+          "B": {
+            "id": 114039,
+            "platform": "inf",
+            "name": "\u041f\u043e\u043b\u043d\u044b\u0435 \u043a\u0432\u0430\u0434\u0440\u0430\u0442\u044b",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2018-19/region/iikt/task-iikt-9-11-reg-18-9.pdf"
+          },
+          "C": {
+            "id": 114040,
+            "platform": "inf",
+            "name": "\u0410\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044f \u0441\u043a\u043b\u0430\u0434\u0430",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2018-19/region/iikt/task-iikt-9-11-reg-18-9.pdf"
+          },
+          "D": {
+            "id": 114041,
+            "platform": "inf",
+            "name": "\u041c\u0430\u0448\u0438\u043d\u043d\u043e\u0435 \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u0435",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2018-19/region/iikt/task-iikt-9-11-reg-18-9.pdf"
+          }
+        },
+        "2": {
+          "A": {
+            "id": 114042,
+            "platform": "inf",
+            "name": "\u041d\u0435\u0438\u0441\u043f\u0440\u0430\u0432\u043d\u044b\u0439 \u043c\u0430\u0440\u0441\u043e\u0445\u043e\u0434",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2018-19/region/iikt/task-iikt-9-11-reg-18-9.pdf"
+          },
+          "B": {
+            "id": 114043,
+            "platform": "inf",
+            "name": "\u0418\u043d\u0442\u0435\u0440\u0432\u0430\u043b\u044c\u043d\u044b\u0435 \u0442\u0440\u0435\u043d\u0438\u0440\u043e\u0432\u043a\u0438",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2018-19/region/iikt/task-iikt-9-11-reg-18-9.pdf"
+          },
+          "C": {
+            "id": 114044,
+            "platform": "inf",
+            "name": "\u042d\u043a\u0441\u043f\u0435\u0434\u0438\u0446\u0438\u044f",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2018-19/region/iikt/task-iikt-9-11-reg-18-9.pdf"
+          },
+          "D": {
+            "id": 114045,
+            "platform": "inf",
+            "name": "\u0420\u0430\u0437\u0431\u0438\u0435\u043d\u0438\u0435 \u043d\u0430 \u043f\u0430\u0440\u044b",
+            "statement": "https://vos.olimpiada.ru/upload/files/Arhive_tasks/2018-19/region/iikt/task-iikt-9-11-reg-18-9.pdf"
+          }
+        }
+      }
+    }
+  }
+}
